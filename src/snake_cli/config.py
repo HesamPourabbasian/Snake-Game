@@ -1,0 +1,9 @@
+# Game configuration constants
+GAME_WIDTH = 700
+GAME_HEIGHT = 700
+SPEED = 300
+SPACE_SIZE = 50
+BODY_PARTS = 3
+SNAKE_COLOR = "#00FF00"  # Green
+FOOD_COLOR = "#FF0000"   # Red
+BACKGROUND_COLOR = "#000000"  # Black
